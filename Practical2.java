@@ -90,3 +90,101 @@ public class Practical2 {
 
     }
 }
+/*
+Enter 1-> showing the programs 
+ 2-> To apply for the program 
+ 3-> To Display the participents 
+  4-> To exit 
+1
+The followings are the  available programs :
+1 -> DSA
+By prof1
+Duration : 3 weeks
+Fee : 100 Rupees 
+ 
+
+2 -> java
+By prof2
+Duration : 4 weeks
+Fee : 200 Rupees 
+ 
+
+3 -> Python
+By prof3
+Duration : 5 weeks
+Fee : 300 Rupees 
+ 
+
+4 -> C++
+By prof4
+Duration : 6 weeks
+Fee : 400 Rupees 
+ 
+
+5 -> AI designing
+By prof5
+Duration : 7 weeks
+Fee : 500 Rupees 
+ 
+
+6 -> Meshin Learning
+By prof6
+Duration : 8 weeks
+Fee : 600 Rupees 
+ 
+
+Enter 1-> showing the programs 
+ 2-> To apply for the program 
+ 3-> To Display the participents 
+  4-> To exit 
+2
+enter your name :
+Abhay
+Abhay
+Press :
+1 for -> DSA
+2 for -> java
+3 for -> Python
+4 for -> C++
+5 for -> AI designing
+6 for -> Meshin Learning
+1
+Enter 1-> showing the programs 
+ 2-> To apply for the program 
+ 3-> To Display the participents 
+  4-> To exit 
+2
+enter your name :
+Ajit
+Ajit
+Press :
+1 for -> DSA
+2 for -> java
+3 for -> Python
+4 for -> C++
+5 for -> AI designing
+6 for -> Meshin Learning
+2
+Enter 1-> showing the programs 
+ 2-> To apply for the program 
+ 3-> To Display the participents 
+  4-> To exit 
+3
+1:
+Name :Abhay
+Selected Course :DSA
+
+2:
+Name :Ajit
+Selected Course :java
+
+
+
+Enter 1-> showing the programs 
+ 2-> To apply for the program 
+ 3-> To Display the participents 
+  4-> To exit 
+4
+
+Process finished with exit code 0
+*/
